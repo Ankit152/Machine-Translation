@@ -10,5 +10,5 @@ To process any translation, human or automated, the meaning of a text in the ori
 Human and machine translation each have their share of challenges. For example, no two individual translators can produce identical translations of the same text in the same language pair, and it may take several rounds of revisions to meet customer satisfaction. But the greater challenge lies in how machine translation can produce publishable quality translations.
 
 <p align=center>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flokalise.com%2Fblog%2Fhow-to-incorporate-machine-translation-into-your-localization-workflow%2F&psig=AOvVaw3XE49UYjGoPbCBtlG3wLEM&ust=1613218897501000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCm7-yq5O4CFQAAAAAdAAAAABAD">
+    <img src="https://github.com/Ankit152/Machine-Translation/blob/main/robo.png" height=425 width=740>
 </p>
